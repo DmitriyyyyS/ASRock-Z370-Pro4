@@ -5,6 +5,8 @@ CPU 	Intel Core i7-8700
 
 Intel Kaby Point Z370
 
+GPU RX560-590
+
 BIOS AMI 2019 (P_4.30)
 
 Audio Realtek ALC892
